@@ -1,6 +1,6 @@
 const ItemListContainer = ({saludo}) => {
   return (
-      <h1> {saludo} </h1>
+      <h1 className="saludo"> {saludo} </h1>
   )
 }
 
